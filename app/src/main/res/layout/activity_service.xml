@@ -10,13 +10,14 @@
     tools:context=".ServiceActivity">
 
     <TextView
+        android:id="@+id/resultText"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:gravity="center"
         android:textSize="32sp"
         android:textAllCaps="true"
         android:layout_weight="1"
-        android:text="Services"/>
+        android:text="..."/>
 
     <Button
         android:id="@+id/signOutBtn"
