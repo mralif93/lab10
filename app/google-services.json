@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "383641283588",
+    "project_id": "lab-10-a0711",
+    "storage_bucket": "lab-10-a0711.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:383641283588:android:02830c4298a6ee7db45951",
+        "android_client_info": {
+          "package_name": "com.my.muhammadaliftajudin.lab10"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDynx6UmuDLoDtiB10UE0l04p4RKM6mTEs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
